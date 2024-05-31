@@ -1,4 +1,4 @@
-# movie_booking_app1
+# showspotapp
 
 A new Flutter project.
 
