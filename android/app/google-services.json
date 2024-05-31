@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "926336659943",
+    "project_id": "variable-firebase-746",
+    "storage_bucket": "variable-firebase-746.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926336659943:android:06a4ac079a17011554cd42",
+        "android_client_info": {
+          "package_name": "com.example.variable_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeI5-cmcS-q780qXhoVaEJ1Md4M2JOHNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926336659943:android:f627e8a6d3a4a01354cd42",
+        "android_client_info": {
+          "package_name": "com.moviebooking.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeI5-cmcS-q780qXhoVaEJ1Md4M2JOHNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
